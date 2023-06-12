@@ -1,5 +1,3 @@
-const { UserList } = require("./fake")
-
 const mysql = require('mysql2');
 
 // MySQL connection configuration
